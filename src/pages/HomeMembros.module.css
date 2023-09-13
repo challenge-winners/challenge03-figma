@@ -1,0 +1,200 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1200px;
+  height: 1476px;
+}
+.time {
+  font-size: var(--heading-3-size);
+  color: var(--color-dodgerblue);
+}
+.conheaNossosParticipates,
+.nossoTime {
+  position: absolute;
+  top: 176px;
+  left: calc(50% - 536px);
+  line-height: 150%;
+}
+.conheaNossosParticipates {
+  top: 230px;
+  font-size: var(--font-size-3xl);
+  line-height: 125%;
+}
+.alexandrePortugalDo,
+.rm551737 {
+  position: absolute;
+  left: calc(50% - 153px);
+}
+.alexandrePortugalDo {
+  top: 330px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 250px;
+}
+.rm551737 {
+  top: 398px;
+  font-size: var(--body-size);
+  line-height: 125%;
+}
+.groupChild {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 316px;
+  height: 316px;
+  object-fit: cover;
+}
+.alexandrePortugalDoNascimenParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 536px);
+  width: 306px;
+  height: 421px;
+}
+.felipeSieiroPaim {
+  position: absolute;
+  top: 330px;
+  left: calc(50% - 153px);
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 241px;
+}
+.felipeSieiroPaimDosSantosParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 153px);
+  width: 306px;
+  height: 421px;
+}
+.jonathanMatusSouza {
+  position: absolute;
+  top: 330px;
+  left: calc(50% - 153px);
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 305px;
+}
+.jonathanMatusSouzaDeMoraesParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 230px);
+  width: 306px;
+  height: 421px;
+}
+.lucasOlivieraFigueiredo {
+  position: absolute;
+  top: 330px;
+  left: calc(50% - 153px);
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 292px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 316px;
+  height: 306px;
+  object-fit: cover;
+}
+.lucasOlivieraFigueiredoNascParent {
+  position: absolute;
+  top: 477px;
+  left: calc(50% - 345px);
+  width: 306px;
+  height: 421px;
+}
+.rm98499,
+.tomazDeOliveira {
+  position: absolute;
+  left: calc(50% - 153px);
+}
+.tomazDeOliveira {
+  top: 330px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 284px;
+}
+.rm98499 {
+  top: 368px;
+  font-size: var(--body-size);
+  line-height: 125%;
+}
+.tomazDeOliveiraPecoraroParent {
+  position: absolute;
+  top: 477px;
+  left: calc(50% + 38px);
+  width: 306px;
+  height: 391px;
+}
+.membros {
+  position: absolute;
+  top: 314px;
+  left: 64px;
+  width: 1072px;
+  height: 898px;
+  font-size: var(--heading-3-size);
+}
+.headerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 1200px;
+  height: 112px;
+}
+.bikecheck,
+.home {
+  position: absolute;
+  top: 24px;
+  left: 64px;
+  line-height: 150%;
+}
+.home {
+  top: 16px;
+  left: 24px;
+  line-height: 125%;
+}
+.ctaButton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  width: 105px;
+  height: 55px;
+  cursor: pointer;
+}
+.ctaButtonParent,
+.header {
+  position: absolute;
+  top: 33px;
+  left: 637px;
+  width: 499px;
+  height: 55px;
+  font-size: var(--body-size);
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 112px;
+  font-size: var(--heading-1-size);
+  color: var(--color-white);
+}
+.homeMembros {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-darkslategray);
+  font-family: var(--heading-1);
+}

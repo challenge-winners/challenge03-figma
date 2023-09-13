@@ -1,0 +1,96 @@
+.footerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 1200px;
+  height: 200px;
+}
+.empresa,
+.sobreNs {
+  position: absolute;
+  left: 0;
+  line-height: 150%;
+}
+.empresa {
+  top: 0;
+  font-weight: 600;
+}
+.sobreNs {
+  top: 35px;
+  font-size: var(--font-size-base);
+}
+.empresaParent,
+.produtoParent {
+  position: absolute;
+  top: 48px;
+  left: 475px;
+  width: 83px;
+  height: 59px;
+}
+.produtoParent {
+  left: 606px;
+  width: 95px;
+}
+.ajuda,
+.dvidasFrequntes,
+.faq {
+  position: absolute;
+  left: 0;
+  line-height: 150%;
+}
+.ajuda {
+  top: 0;
+  font-size: var(--body-size);
+  font-weight: 600;
+}
+.dvidasFrequntes,
+.faq {
+  top: 35px;
+}
+.dvidasFrequntes {
+  top: 67px;
+}
+.ajudaParent,
+.websiteParent {
+  position: absolute;
+  top: 48px;
+  left: 749px;
+  width: 157px;
+  height: 91px;
+  font-size: var(--font-size-base);
+}
+.websiteParent {
+  left: 954px;
+  width: 182px;
+}
+.bikecheck,
+.bikecheckTodosDireitos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+.bikecheckTodosDireitos {
+  top: 80px;
+  font-size: var(--font-size-base);
+}
+.bikecheckParent,
+.footer {
+  position: absolute;
+  top: 48px;
+  left: 64px;
+  width: 351px;
+  height: 104px;
+  font-size: var(--heading-1-size);
+}
+.footer {
+  top: 1487px;
+  left: 0;
+  width: 1200px;
+  height: 200px;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-white);
+  font-family: var(--heading-1);
+}

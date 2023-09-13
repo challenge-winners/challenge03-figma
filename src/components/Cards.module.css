@@ -1,0 +1,12 @@
+.cards {
+  position: absolute;
+  top: 339px;
+  left: 87px;
+  width: 1984px;
+  height: 404px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--heading-3-size);
+  color: var(--color-darkslategray);
+  font-family: var(--heading-1);
+}

@@ -1,0 +1,61 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  width: 363px;
+  height: 368px;
+}
+.groupItem {
+  top: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-dodgerblue);
+  width: 72px;
+  height: 72px;
+}
+.visibilityIcon {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 146px;
+  box-shadow: 0 4px 8px rgba(64, 125, 230, 0.24);
+  width: 72px;
+  height: 72px;
+}
+.googleVisionApi {
+  position: absolute;
+  top: 96px;
+  left: calc(50% - 91.5px);
+  line-height: 150%;
+  font-weight: 600;
+}
+.oRecursoEncapsula {
+  position: absolute;
+  top: 142px;
+  left: calc(50% - 149.5px);
+  font-size: var(--body-size);
+  line-height: 125%;
+  display: inline-block;
+  width: 299px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 363px;
+  height: 404px;
+  text-align: center;
+  font-size: var(--heading-3-size);
+  color: var(--color-darkslategray);
+  font-family: var(--heading-1);
+}

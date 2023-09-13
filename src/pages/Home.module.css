@@ -1,0 +1,261 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1200px;
+  height: 1687px;
+}
+.image1Icon {
+  position: absolute;
+  top: 1095px;
+  left: 64px;
+  width: 573px;
+  height: 328px;
+  object-fit: cover;
+}
+.confiraNosso {
+  font-weight: 500;
+}
+.span {
+  font-weight: 600;
+  color: var(--color-dodgerblue);
+  font-size: var(--heading-3-size);
+}
+.confiraNossoPitchContainer,
+.nossoPitch {
+  position: absolute;
+  top: 1151px;
+  left: 693px;
+  line-height: 125%;
+}
+.nossoPitch {
+  top: 1095px;
+  font-size: var(--heading-2-size);
+  line-height: 150%;
+  font-weight: 600;
+}
+.homeChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 1200px;
+  height: 551px;
+}
+.oDesafioAtual,
+.oQue {
+  position: absolute;
+  left: 0;
+  line-height: 150%;
+}
+.oQue {
+  top: 0;
+  font-weight: 600;
+}
+.oDesafioAtual {
+  top: 81px;
+  font-size: var(--body-size);
+  display: inline-block;
+  width: 540px;
+}
+.oQueBikecheckParent {
+  position: relative;
+  width: 540px;
+  height: 270px;
+}
+.ilustracaoBikeIcon {
+  position: relative;
+  width: 420px;
+  height: 327px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 168px;
+  left: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 112px;
+  font-size: var(--heading-2-size);
+  color: var(--color-white);
+}
+.homeItem {
+  position: absolute;
+  top: 551px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1200px;
+  height: 480px;
+}
+.nossosServios {
+  position: absolute;
+  top: 615px;
+  left: 629px;
+  font-size: var(--heading-2-size);
+  line-height: 150%;
+  font-weight: 600;
+}
+.ilustracaoTecnologiasIcon {
+  position: absolute;
+  top: 615px;
+  left: 64px;
+  width: 469px;
+  height: 202px;
+  object-fit: cover;
+}
+.googleVisionApi {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  line-height: 125%;
+  font-weight: 500;
+  display: inline-block;
+  width: 117px;
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 36px);
+  left: calc(50% - 110.5px);
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.googleVisionApiParent {
+  position: absolute;
+  top: 695px;
+  left: 629px;
+  width: 205px;
+  height: 64px;
+}
+.tiposDeBicicleta {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  line-height: 125%;
+  font-weight: 500;
+  display: inline-block;
+  width: 141px;
+}
+.groupItem {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.tiposDeBicicletaParent {
+  position: absolute;
+  top: 799px;
+  left: 629px;
+  width: 229px;
+  height: 64px;
+}
+.questionrioInteligente {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  line-height: 125%;
+  font-weight: 500;
+  display: inline-block;
+  width: 131px;
+}
+.questionrioInteligenteParent {
+  position: absolute;
+  top: 903px;
+  left: 629px;
+  width: 219px;
+  height: 64px;
+}
+.iaDeSimilaridade {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  line-height: 125%;
+  font-weight: 500;
+  display: inline-block;
+  width: 142px;
+}
+.iaDeSimilaridadeParent {
+  position: absolute;
+  top: 799px;
+  left: 906px;
+  width: 230px;
+  height: 64px;
+}
+.escolhaDePeas {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  line-height: 125%;
+  font-weight: 500;
+  display: inline-block;
+  width: 95px;
+}
+.escolhaDePeasParent,
+.headerChild {
+  position: absolute;
+  top: 695px;
+  left: 906px;
+  width: 183px;
+  height: 64px;
+}
+.headerChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 1200px;
+  height: 112px;
+}
+.bikecheck,
+.home1 {
+  position: absolute;
+  top: 24px;
+  left: 64px;
+  line-height: 150%;
+}
+.home1 {
+  top: 16px;
+  left: 24px;
+  line-height: 125%;
+}
+.ctaButton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 105px;
+  height: 55px;
+}
+.ctaButtonParent,
+.header {
+  position: absolute;
+  top: 33px;
+  left: 637px;
+  width: 499px;
+  height: 55px;
+  font-size: var(--body-size);
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 112px;
+  font-size: var(--heading-1-size);
+  color: var(--color-white);
+}
+.home {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-darkslategray);
+  font-family: var(--heading-1);
+}
